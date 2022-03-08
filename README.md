@@ -21,7 +21,7 @@
 
 ## Minhas Redes Sociais
 <div>
-  <a style="margin-right: 15px;" href="silvaij:silvaij16@gmail.com" target="_blank">
+  <a style="margin-right: 15px;" href="mailto:silvaij16@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="./images/gmail.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/israel-jerônimo-da-silva" target="_blank">
