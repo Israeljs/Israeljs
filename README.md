@@ -21,10 +21,10 @@
 
 ## Minhas Redes Sociais
 <div>
-  <a style="margin-right: 15px;" href="silvaij16@gmail.com" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.silvaij16@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="./images/gmail.png" />
   </a>
-  <a style="margin-right: 15px;" href="linkedin.com/in/israel-jerônimo-da-silva" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/israel-jerônimo-da-silva" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
   </a>
   <a style="margin-right: 15px;" href="https://web.facebook.com/israeljeronimo.dasilva" target="_blank">
