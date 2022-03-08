@@ -19,6 +19,18 @@
   <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 </div>
 
+## Minhas Redes Sociais
+<div>
+  <a style="margin-right: 15px;" href="silvaij16@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="./images/gmail.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/israel-jeronimo-da-silva/" target="_blank">
+    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://web.facebook.com/israeljeronimo.dasilva" target="_blank">
+    <img width="64px" alt="" src="./images/facebook.png" />
+  </a>
+</div>
 
 <!--
 **Israeljs/Israeljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
