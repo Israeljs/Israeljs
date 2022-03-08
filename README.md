@@ -1,4 +1,8 @@
-### Hi there 👋
+## Olá, Sou o Israel Jerônimo!
+<div align="justify">
+  Sou formado em Análise e desenvolvimento de sistemas e estou me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>.Gosto de programar, de pensar, discutir planos, resolver problemas.
+ </div>
+
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -37,13 +41,13 @@
 <tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Israeljs&show_icons=true&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Israeljs&show_icons=true&theme=dark" />
   </a>
 
 </td><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israeljs&layout=compact&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israeljs&layout=compact&theme=dark" />
   </a>
 
 </td></tr>
