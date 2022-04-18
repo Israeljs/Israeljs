@@ -1,6 +1,6 @@
 ## Olá, Sou o Israel Jerônimo!
 <div align="justify">
-  Sou formado em Análise e desenvolvimento de sistemas e estou me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>.Gosto de programar, de pensar, discutir planos, resolver problemas.
+  Sou formado em Análise e desenvolvimento de sistemas e estou me capacitando cada dia mais afim de me tornar um <strong>Desenvolvedor de Software</strong> mais completo.Gosto de programar, de pensar, discutir planos, resolver problemas. Estou sempre aberto a aprender novas tecnologias.   
  </div>
 
 
