@@ -36,7 +36,7 @@
   </a>
 </div>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 <table>
 <tr><td>
 
@@ -52,7 +52,7 @@
 
 </td></tr>
 </table>
-
+ -->
 <!--
 **Israeljs/Israeljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
