@@ -36,7 +36,7 @@
   </a>
 </div>
 
-<!-- ## GitHub Stats
+## GitHub Stats
 <table>
 <tr><td>
 
@@ -44,15 +44,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Israeljs&show_icons=true&theme=dark" />
   </a>
 
-</td><td>
+<!-- </td><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israeljs&layout=compact&theme=dark" />
   </a>
 
-</td></tr>
+</td></tr> -->
 </table>
- -->
+
 <!--
 **Israeljs/Israeljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
